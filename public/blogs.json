@@ -5,7 +5,7 @@
     "cover_img": "https://i.ibb.co/GvLBBp6/cover1.jpg",
     "author": "John Doe",
     "author_img": "https://i.ibb.co/644FbZw/user1.jpg",
-    "post_date": "2023-09-15",
+    "post_date": "15 Octobar, 2023",
     "reading_time": 12,
     "hashtags": ["AI", "MachineLearning", "Technology"]
   },
@@ -15,7 +15,7 @@
     "cover_img": "https://i.ibb.co/z4D9fbT/cover2.jpg",
     "author": "Jane Smith",
     "author_img": "https://i.ibb.co/k2P5qCX/user2.jpg",
-    "post_date": "2023-09-14",
+    "post_date": "14 Octobar, 2023",
     "reading_time": 8,
     "hashtags": ["Space", "Astronomy", "Science"]
   },
@@ -25,7 +25,7 @@
     "cover_img": "https://i.ibb.co/xJxR8RH/cover3.jpg",
     "author": "David Johnson",
     "author_img": "https://i.ibb.co/bPjvrMX/user3.jpg",
-    "post_date": "2023-09-13",
+    "post_date": "13 Octobar, 2023",
     "reading_time": 15,
     "hashtags": ["Cooking", "Foodie", "Recipes"]
   },
@@ -35,7 +35,7 @@
     "cover_img": "https://i.ibb.co/L9GFmjz/cover4.jpg",
     "author": "Emily Wilson",
     "author_img": "https://i.ibb.co/WzcCPx0/user4.jpg",
-    "post_date": "2023-09-12",
+    "post_date": "12 Octobar, 2023",
     "reading_time": 10,
     "hashtags": ["Photography", "Art", "Creativity"]
   },
@@ -45,7 +45,7 @@
     "cover_img": "https://i.ibb.co/VLJGZtf/cover5.jpg",
     "author": "Michael Brown",
     "author_img": "https://i.ibb.co/k2P5qCX/user2.jpg",
-    "post_date": "2023-09-11",
+    "post_date": "11 Octobar, 2023",
     "reading_time": 20,
     "hashtags": ["Fitness", "Health", "Wellness"]
   }
